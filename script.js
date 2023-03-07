@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <title>World</title>
-        <meta charset= 'utf-8'>
-    </head>
-    <body>
-        <h1>World Hello</h1>
-    </body>
-</html>
+console.log("Olá Mundo")
+console.error("Deu Erro")
+console.warn("Atenção")
